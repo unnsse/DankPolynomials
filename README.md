@@ -1,4 +1,4 @@
-# DankPolynomials
+# Dank Polynomials
 
 A Kotlin project for finding polynomials that generate consecutive prime numbers. This project explores the fascinating mathematical problem of discovering quadratic polynomials of the form `n² + an + b` that produce the longest sequences of consecutive primes.
 
@@ -18,19 +18,19 @@ A Kotlin project for finding polynomials that generate consecutive prime numbers
 ## Project Structure
 
 ```
-DankPolynomials/
-├── gradlew                 # Gradle wrapper script
-├── gradle/wrapper/         # Gradle wrapper files
-├── settings.gradle.kts     # Multi-module project settings
-├── Dockerfile             # Docker configuration
-└── app/                   # Main application module
-    ├── build.gradle.kts   # Build configuration
+DankPolynomials/    
+├── gradlew                                 # Gradle wrapper script
+├── gradle/wrapper/                         # Gradle wrapper files
+├── settings.gradle.kts                     # Multi-module project settings
+├── Dockerfile                              # Docker configuration
+└── app/                                    # Main application module
+    ├── build.gradle.kts                    # Build configuration
     └── src/
         ├── main/kotlin/com/dankpolynomials/
-        │   ├── DankPolynomials.kt    # Core algorithms
-        │   └── Main.kt               # Application entry point
+        │   ├── DankPolynomials.kt          # Core algorithms
+        │   └── Main.kt                     # Application entry point
         └── test/kotlin/com/dankpolynomials/
-            └── DankPolynomialsTest.kt # Test suite
+            └── DankPolynomialsTest.kt      # Test suite
 ```
 
 ## Local Development
