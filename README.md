@@ -203,7 +203,3 @@ docker run -it dankpolynomials ./gradlew build
 - First build downloads all dependencies (normal)
 - Subsequent builds use layer caching and are much faster
 - Only source code changes trigger recompilation
-
-## License
-
-This project is open source. Feel free to explore, learn, and contribute to the fascinating world of polynomial prime generation!
