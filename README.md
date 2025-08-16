@@ -2,6 +2,8 @@
 
 A Kotlin project for finding polynomials that generate consecutive prime numbers. This project explores the fascinating mathematical problem of discovering quadratic polynomials of the form `n² + an + b` that produce the longest sequences of consecutive primes.
 
+See detailed article: [Finding the Optimal Prime-Generating Polynomial: A Journey Through Euler's Mathematical Legacy](https://unnsse.io/2025/08/dankpolynomials)
+
 ## Features
 
 - Prime number detection algorithms
